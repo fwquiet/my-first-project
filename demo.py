@@ -13,4 +13,5 @@ if __name__ == '__main__':
         k += j
         j += 0.3
  
-    mainloop()print('工作区修改代码测试! ')
+    mainloop()
+print('工作区修改代码测试! ')
